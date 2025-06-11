@@ -39,7 +39,7 @@ AIVA is a next-gen AI companion that remembers you, understands emotion, and lea
 
 ```bash
 # Clone repo
-git clone https://github.com/yourname/aiva.git && cd aiva
+git clone https://github.com/saipanindra7/AIVA.git && cd AIVA
 
 # Setup backend
 cd backend
